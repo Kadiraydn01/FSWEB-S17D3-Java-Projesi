@@ -1,4 +1,4 @@
-package com.workintech.errorhandling;
+package com.workintech.zoo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,8 @@ public class ErrorHandlingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ErrorHandlingApplication.class, args);
+
 	}
+
 
 }

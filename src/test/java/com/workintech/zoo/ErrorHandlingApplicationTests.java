@@ -1,4 +1,4 @@
-package com.workintech.errorhandling;
+package com.workintech.zoo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
